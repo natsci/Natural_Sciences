@@ -2,7 +2,7 @@
 
 # Natural_Sciences
 
-> Admin & Rzr Repo
+> Admin & Resources Repo
 
 
 
@@ -11,10 +11,10 @@
 
 About Us
 -----------
-An Orginaztion built around the research and study of the Natural Sciences
+An Origination built around the research and study of the Natural Sciences
 
 
-Consintrations
+Considerations
 ----------------
 + List
 
