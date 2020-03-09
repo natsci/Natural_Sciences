@@ -9,12 +9,14 @@
 
 
 
-About Us
------------
+## About Us
+
 An Origination built around the research and study of the Natural Sciences
 
 
-Considerations
-----------------
+## Considerations
+
++ List
++ List
 + List
 
